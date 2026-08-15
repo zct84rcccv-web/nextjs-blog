@@ -7,7 +7,7 @@ date: 2026-08-15T10:40:00.000Z
 author:
   name: "F.P. O Connor "
 ---
-```
+
 <style>
 .go-summary{background:#F1E9DB;border:1px solid #5D2E1D;border-left:4px solid #5D2E1D;border-radius:3px;padding:28px 30px;max-width:740px;margin:0 auto}
 .go-label{font-family:'Montserrat',sans-serif;font-size:10px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#84A98C;margin:0 0 8px 0}
@@ -42,7 +42,7 @@ author:
     <p>Before asking your body to do more, see whether the guitar can ask for less. Technique serves music. The instrument serves the musician.</p>
   </div>
 </div>
-```
+
 
 
 
