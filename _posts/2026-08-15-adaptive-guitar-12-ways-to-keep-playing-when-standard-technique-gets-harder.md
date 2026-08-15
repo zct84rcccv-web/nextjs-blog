@@ -7,6 +7,45 @@ date: 2026-08-15T10:40:00.000Z
 author:
   name: "F.P. O Connor "
 ---
+```
+<style>
+.go-summary{background:#F1E9DB;border:1px solid #5D2E1D;border-left:4px solid #5D2E1D;border-radius:3px;padding:28px 30px;max-width:740px;margin:0 auto}
+.go-label{font-family:'Montserrat',sans-serif;font-size:10px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#84A98C;margin:0 0 8px 0}
+.go-title{font-family:'Playfair Display',Georgia,serif;font-size:21px;font-weight:600;color:#1B263B;margin:0 0 14px 0;line-height:1.3}
+.go-intro{font-family:'Montserrat',sans-serif;font-size:14px;line-height:1.7;color:#415A77;margin:0 0 20px 0}
+.go-divider{border:none;border-top:1px solid #5D2E1D;opacity:.2;margin:20px 0}
+.go-section-label{font-family:'Montserrat',sans-serif;font-size:10px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:#5D2E1D;margin:0 0 10px 0}
+.go-covers{list-style:none;padding:0;margin:0 0 20px 0}
+.go-covers li{font-family:'Montserrat',sans-serif;font-size:13px;color:#1B263B;padding:5px 0 5px 20px;position:relative;line-height:1.5}
+.go-covers li::before{content:'→';position:absolute;left:0;color:#84A98C;font-size:12px}
+.go-core-truth{background:#1B263B;border-radius:2px;padding:16px 18px}
+.go-core-truth-label{font-family:'Montserrat',sans-serif;font-size:10px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:#D4A373;margin:0 0 8px 0}
+.go-core-truth p{font-family:'Montserrat',sans-serif;font-size:13px;font-style:italic;color:#F1E9DB;margin:0;line-height:1.6}
+@media(max-width:600px){.go-summary{padding:22px 18px}.go-title{font-size:18px}}
+</style>
+
+<div class="go-summary">
+  <p class="go-label">The short version</p>
+  <p class="go-title">Adaptive Guitar: 12 Ways to Keep Playing When Standard Technique Gets Harder</p>
+  <p class="go-intro">Adaptive guitar means changing the music, instrument, setup, technique or interface so the guitar fits the player you are now. If familiar shapes or standard technique have become harder, there are usually more variables available than simply asking your hands to work harder.</p>
+  <hr class="go-divider">
+  <p class="go-section-label">What this covers</p>
+  <ul class="go-covers">
+    <li>Smaller chord voicings, inversions and partial chords</li>
+    <li>Capos, transposition and alternate tunings</li>
+    <li>Setup, strings and instrument choices that change demand</li>
+    <li>Playing-position and technique adaptations</li>
+    <li>Accessible instruments, interfaces and assistive technology</li>
+  </ul>
+  <div class="go-core-truth">
+    <p class="go-core-truth-label">The core truth</p>
+    <p>Before asking your body to do more, see whether the guitar can ask for less. Technique serves music. The instrument serves the musician.</p>
+  </div>
+</div>
+```
+
+
+
 You reach for a chord you have played for years.
 
 Maybe it is an F barre chord. Maybe it is a stretch that used to happen without much thought.
