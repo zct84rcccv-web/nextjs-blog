@@ -78,11 +78,7 @@ Not lowering the bar.
 
 Changing the problem so you can get back to making music.
 
-```
-
-```
-
-## What Do I Mean by Adaptive Guitar?
+### What Do I Mean by Adaptive Guitar?
 
 Adaptive guitar can mean different things.
 
@@ -118,7 +114,7 @@ So here are twelve places you can look when the standard approach is no longer w
 
 ---
 
-## 1. Change the Chord Shape
+### 1. Change the Chord Shape
 
 Start here because this is probably the simplest adaptation available.
 
@@ -146,7 +142,7 @@ This idea becomes important later in this Adaptive Guitar series because we are 
 
 ---
 
-## 2. Use Fewer Strings
+### 2. Use Fewer Strings
 
 Guitarists are strangely loyal to all six strings.
 
@@ -176,7 +172,7 @@ You're solving the musical problem instead of turning your fingers into hostages
 
 ---
 
-## 3. Move the Chord Somewhere Else
+### 3. Move the Chord Somewhere Else
 
 The same chord can appear in different places on the neck.
 
@@ -196,7 +192,7 @@ And options become valuable when one physical solution stops being a good fit.
 
 ---
 
-## 4. Use a Capo
+### 4. Use a Capo
 
 The capo might be one of the most underrated adaptive tools sitting in your guitar case.
 
@@ -218,7 +214,7 @@ Then notice what your hand thinks of the new arrangement.
 
 ---
 
-## 5. Change the Tuning
+### 5. Change the Tuning
 
 Standard tuning is brilliant.
 
@@ -240,7 +236,7 @@ In the next article in this series, I'll show you how several open tunings can r
 
 ---
 
-## 6. Lower the Amount of Fretting Force You Need
+### 6. Lower the Amount of Fretting Force You Need
 
 Sometimes we keep modifying the body while ignoring the machine attached to it.
 
@@ -264,7 +260,7 @@ I've covered this in more detail in **3 Gear Tweaks That Reduce Fretting Force**
 
 ---
 
-## 7. Change the Guitar
+### 7. Change the Guitar
 
 There is no moral virtue in staying loyal to an instrument that no longer suits you.
 
@@ -294,7 +290,7 @@ If you're considering this route, my guide **Easiest Guitar to Play With Arthrit
 
 ---
 
-## 8. Change Where the Guitar Sits
+### 8. Change Where the Guitar Sits
 
 Sometimes the hands are working around a problem created somewhere else.
 
@@ -328,7 +324,7 @@ The guitar is the test.
 
 ---
 
-## 9. Change the Pick
+### 9. Change the Pick
 
 The humble pick is another physical variable people barely think about.
 
@@ -353,7 +349,7 @@ It is to find one that lets you make the sound you want without requiring more e
 
 ---
 
-## 10. Change the Picking or Strumming Method
+### 10. Change the Picking or Strumming Method
 
 Technique is another variable.
 
@@ -385,7 +381,7 @@ Maybe it's simply being able to play the bloody song.
 
 ---
 
-## 11. Change How Long You Play
+### 11. Change How Long You Play
 
 Not every adaptive strategy involves buying something or learning new technique.
 
@@ -411,7 +407,7 @@ It means your current playing tolerance is another variable you can work with.
 
 ---
 
-## 12. Change What Counts as "Playing It Properly"
+### 12. Change What Counts as "Playing It Properly"
 
 This may be the most important one.
 
@@ -447,7 +443,7 @@ The goal is to make music.
 
 ---
 
-# The Five Things You Can Adapt
+## The Five Things You Can Adapt
 
 When something starts getting physically difficult on guitar, I want you to think through five layers:
 
@@ -479,7 +475,7 @@ And that is really the point of adaptive guitar.
 
 ---
 
-# Try This With One Song Today
+## Try This With One Song Today
 
 Don't redesign your entire guitar life this afternoon.
 
@@ -500,61 +496,285 @@ Then ask:
 
 **What can I change about the task?**
 
-Try one adaptation.
+Try one adaptation. A smaller chord, maybe use a capo. A different position or try just a lighter touch.
 
-A smaller chord.
+A shorter playing blocker a  different arrangement.
 
-A capo.
-
-A different position.
-
-A lighter touch.
-
-A shorter playing block.
-
-A different arrangement.
-
-Then play the song again and notice what changed.
-
-That's enough.
-
-You are not trying to create the perfect adaptive setup.
-
-You're trying to find a version of guitar that works with the musician you are today.
+Then play the song again and notice what changed. That's enough. You are not trying to create the perfect adaptive setup. You're trying to find a version of guitar that works with the musician you are today.
 
 And if that keeps the music in your hands, I'd call that a fairly successful adaptation.
 
+
+
 ---
 
-## Next in the Adaptive Guitar series
+### Next in the Adaptive Guitar series
 
 **Open Tunings for Stiff or Limited Hands: Make More Music With Less Fretting**
 
 We'll look at how Open D, Open G and other tunings can change the amount of work your fretting hand has to do, including simple ways to start without relearning the entire guitar.
 
+
+
 ---
 
-## A sensible boundary
+### A sensible boundary
 
 Changing technique, setup or musical demands can make guitar more workable for many players, but persistent, worsening, neurological, traumatic or otherwise concerning symptoms deserve appropriate professional assessment.
 
 Gentle Octaves provides education about movement, ergonomics, practice and self-observation. It does not diagnose or treat medical conditions.
 
----
+Pick one song you already know and run the **One-Song Adaptation Test** before adding another exercise to your practice routine.
 
-## Related Gentle Octaves guides
+Change one variable at a time. Start with the music itself, then the guitar, position and technique. If one small adaptation makes the song immediately more usable, keep it and play the song.
 
-**Arthritis-Friendly Guitar Chords That Sound Great**  
-Alternative chord shapes when standard shapes feel unnecessarily demanding.
+That is the point.
 
-**Stop White-Knuckling the Neck: 3 Gear Tweaks That Reduce Fretting Force**  
-A closer look at guitar setup, strings and unnecessary resistance.
 
-**Steel vs. Nylon: Which Strings Are Best for Arthritic Fingers?**  
-A practical comparison of different string systems and how they change the feel of the instrument.
 
-**Easiest Guitar to Play With Arthritis**  
-What to consider when the instrument itself may no longer be a good physical fit.
+```
+<!-- Gentle Octaves: author + educational disclaimer block -->
+<!-- Paste this entire block into a Ghost HTML card. -->
 
-**Keep Playing**  
-For guitarists dealing with recurring tension, stiffness or changing physical capacity who want a broader system for adapting how they play.
+<style>
+  .go-author-block {
+    --go-ink: #1f2b44;
+    --go-body: #344f73;
+    --go-sage: #7fa38a;
+    --go-gold: #c7913d;
+    --go-line: #e6e2dc;
+    --go-disclaimer: #2d3432;
+
+    width: 100%;
+    max-width: 760px;
+    margin: 3rem auto;
+    color: var(--go-body);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  .go-author-block,
+  .go-author-block * {
+    box-sizing: border-box;
+  }
+
+  .go-author-block__author {
+    border-top: 2px solid var(--go-ink);
+    padding-top: 26px;
+  }
+
+  .go-author-block__label {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 0 0 24px;
+    color: var(--go-sage);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  .go-author-block__label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--go-line);
+  }
+
+  .go-author-block__profile {
+    display: grid;
+    grid-template-columns: 100px minmax(0, 1fr);
+    gap: 24px;
+    align-items: start;
+  }
+
+  .go-author-block__photo {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    filter: grayscale(100%) contrast(1.05);
+  }
+
+  .go-author-block__name {
+    margin: -2px 0 3px;
+    color: var(--go-ink);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  .go-author-block__role {
+    margin: 0 0 14px;
+    color: var(--go-sage);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    line-height: 1.45;
+    text-transform: uppercase;
+  }
+
+  .go-author-block__bio {
+    max-width: 600px;
+    margin: 0 0 18px;
+    color: var(--go-body);
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .go-author-block__cta {
+    display: inline-block;
+    color: var(--go-gold);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+
+  .go-author-block__cta:hover,
+  .go-author-block__cta:focus-visible {
+    color: var(--go-ink);
+  }
+
+  .go-author-block__disclaimer {
+    margin-top: 70px;
+    padding-bottom: 48px;
+    border-bottom: 1px solid var(--go-line);
+  }
+
+  .go-author-block__warning {
+    position: relative;
+    display: block;
+    width: 0;
+    height: 0;
+    margin-bottom: 8px;
+    border-right: 10px solid transparent;
+    border-bottom: 18px solid #e4aa00;
+    border-left: 10px solid transparent;
+  }
+
+  .go-author-block__warning::after {
+    content: "!";
+    position: absolute;
+    top: 4px;
+    left: -2px;
+    color: #1f2b44;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1;
+  }
+
+  .go-author-block__disclaimer p {
+    margin: 0;
+    color: var(--go-disclaimer);
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1.55;
+  }
+
+  @media (max-width: 600px) {
+    .go-author-block {
+      margin: 2.25rem auto;
+    }
+
+    .go-author-block__author {
+      padding-top: 22px;
+    }
+
+    .go-author-block__profile {
+      grid-template-columns: 76px minmax(0, 1fr);
+      gap: 17px;
+    }
+
+    .go-author-block__photo {
+      width: 76px;
+      height: 76px;
+    }
+
+    .go-author-block__name {
+      font-size: 21px;
+    }
+
+    .go-author-block__role {
+      font-size: 10px;
+      letter-spacing: 0.1em;
+    }
+
+    .go-author-block__bio,
+    .go-author-block__cta {
+      font-size: 15px;
+    }
+
+    .go-author-block__disclaimer {
+      margin-top: 48px;
+      padding-bottom: 34px;
+    }
+
+    .go-author-block__disclaimer p {
+      font-size: 14px;
+    }
+  }
+</style>
+
+<aside class="go-author-block" aria-label="About the author and educational disclaimer">
+  <section class="go-author-block__author" aria-labelledby="go-author-name">
+    <p class="go-author-block__label">About the author</p>
+
+    <div class="go-author-block__profile">
+      <img
+        class="go-author-block__photo"
+        src="https://blog.gentleoctaves.com/images/home/fp-oconnor-playing-guitar.jpeg"
+        alt="F.P. O'Connor playing acoustic guitar"
+        width="100"
+        height="100"
+        loading="lazy"
+      >
+
+      <div>
+        <h2 class="go-author-block__name" id="go-author-name">F.P. O'Connor</h2>
+        <p class="go-author-block__role">Manual Osteopath &middot; Guitarist &middot; Movement Nerd</p>
+        <p class="go-author-block__bio">
+          Fergus is a manual osteopath and guitarist who spent nearly two decades watching players quietly give up because nobody gave them a straight answer about why their body was protesting.
+        </p>
+        <a class="go-author-block__cta" href="https://blog.gentleoctaves.com/pain-free-guitar-guide/">
+          <span aria-hidden="true">&rarr;</span> Download the free Pain-Free Guitar Guide
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="go-author-block__disclaimer" aria-label="Educational disclaimer">
+    <span class="go-author-block__warning" aria-hidden="true"></span>
+    <p>
+      Gentle Octaves provides educational information on movement, technique, ergonomics, and mindset for adult musicians. This content is not medical advice and is not a substitute for evaluation or treatment from a qualified healthcare provider. Always consult your clinician before making changes to your playing, exercise routine, or health-related practices.
+    </p>
+  </section>
+</aside>
+```
+
+### **Related Articles** 
+
+**The Best Guitar Chairs and Posture Hacks for Older Players**
+
+If sitting position, guitar height or support is making the instrument awkward to reach, this article looks at practical chair and posture options for older guitarists.
+
+++[https://blog.gentleoctaves.com/chairs-and-posture-hacks-for-older-players/](https://blog.gentleoctaves.com/chairs-and-posture-hacks-for-older-players/)++
+
+### **References**
+
+- David Robert Grimes. **String Theory: The Physics of String-Bending and Other Electric Guitar Techniques.**PLOS ONE, 2014. ++[https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0102088](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0102088)++
+- Fender. **Electric Guitar String Buyer's Guide.** ++[https://www.fender.com/articles/instruments/fender-electric-guitar-string-guide](https://www.fender.com/articles/instruments/fender-electric-guitar-string-guide)++
+- Fender. **9 Essential Alternate Guitar Tunings.** ++[https://www.fender.com/articles/setup/alternate-guitar-tuning](https://www.fender.com/articles/setup/alternate-guitar-tuning)++
+- Fender. **Open D Tuning on Guitar.** ++[https://www.fender.com/articles/setup/open-d-tuning](https://www.fender.com/articles/setup/open-d-tuning)++
+- Drake Music. **The Kellycaster.** ++[https://www.drakemusic.org/technology/instruments-projects/the-kellycaster/](https://www.drakemusic.org/technology/instruments-projects/the-kellycaster/)++
+- Drake Music. **Musicians and accessible music technology.** ++[https://www.drakemusic.org/technology/taking-part/musicians/](https://www.drakemusic.org/technology/taking-part/musicians/)++
+- OHMI Trust. **OHMI Connect.** ++[https://www.ohmi.org.uk/ohmiconnect.html](https://www.ohmi.org.uk/ohmiconnect.html)++
+
