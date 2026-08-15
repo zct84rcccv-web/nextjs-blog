@@ -39,9 +39,11 @@ Not lowering the bar.
 
 Changing the problem so you can get back to making music.
 
+```
+
+```
+
 ## What Do I Mean by Adaptive Guitar?
-
-
 
 Adaptive guitar can mean different things.
 
@@ -72,6 +74,8 @@ Yet guitar instruction still has a habit of teaching technique as though every p
 They didn't.
 
 So here are twelve places you can look when the standard approach is no longer working well for you.
+
+
 
 ---
 
